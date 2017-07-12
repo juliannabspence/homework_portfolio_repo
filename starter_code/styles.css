@@ -1,0 +1,85 @@
+body {
+	font-family: georgia;
+	font-size: 12px;
+	padding:0 50px;
+}
+
+
+img {
+	border: 3px solid black;
+	padding: 10px 0;
+	margin: 20px;
+}
+
+
+nav {
+	text-align: center;
+	padding:10px 0;
+	font-family: arial;
+
+}
+
+h2 , h1 {
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+h4{
+	font-family: arial;
+	font-weight: bold;
+}
+
+h5 {
+	font-family: arial;
+	font-size: 20px;
+	font-style: bold;
+} 
+
+
+p {
+	padding-bottom: 5px;
+
+}
+
+
+a:hover {
+	color: black;
+}
+
+a:visited {
+	color: green;
+}
+
+footer {
+	clear: both;
+
+}
+
+hr  {
+			border: 2px solid black;
+		}
+
+span {
+	font: verdana;
+	font-size: 9px;
+	color: gray;
+}
+
+#button {
+	text-align: center;
+	background: white;
+	border: 2px solid black;
+	border-radius: 10px;
+	font-style: bold;
+	font-family: arial;
+	font-size: 12px;
+	padding: 5px;
+	width: 300px;
+	margin: 0 200px
+}
+
+
+
+
